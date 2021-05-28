@@ -1,0 +1,3 @@
+read string1, string2, string3, string4, string5
+total - string1 + string2 + string3 + string4 + string5
+print total 
